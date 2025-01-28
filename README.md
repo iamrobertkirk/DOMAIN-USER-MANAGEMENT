@@ -2,7 +2,7 @@
 </p>
 
 <h1>Domain User Creation </h1>
-This tutorial shows the process of Creating A Public IP when there is no IP for a VM.<br />
+This tutorial shows the process of Creating users in Active Directory.<br />
 
 ![image](https://github.com/user-attachments/assets/113eb46e-e468-4549-abf9-13e9d0a4e410)
 
